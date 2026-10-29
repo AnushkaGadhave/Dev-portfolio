@@ -32,13 +32,7 @@ function App() {
         <section id='section-1' >
           <nav>
             <div className="nav-elem">
-              <span className="brand-logo">ADARSH<span>.DEV</span></span>
-            </div>
-            <div className="nav-elem">
-              <i className="ri-arrow-right-s-line"></i> My Showreel
-            </div>
-            <div className="nav-elem">
-              <i className="ri-menu-3-line"></i>
+              <span className="brand-logo">ANUSHKA<span>.DEV</span></span>
             </div>
           </nav>
           <div className="middle">

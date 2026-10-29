@@ -50,12 +50,6 @@ section {
     padding: 1.5rem 2.5rem;
     padding-top: 3.5rem;
 
-    .nav-elem:nth-child(2) {
-      i {
-        color: red;
-      }
-    }
-
     .brand-logo {
       font-size: 1.3rem;
       font-weight: 800;
